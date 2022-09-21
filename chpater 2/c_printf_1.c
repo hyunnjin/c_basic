@@ -3,7 +3,7 @@
 int main(void)
 {
     /* code */
-    printf("Hello\n");
+    printf("Hello\t");
     printf("Hynjin Lee ");
 
     return 0;
